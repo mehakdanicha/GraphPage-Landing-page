@@ -17,25 +17,11 @@ This is a simple web page designed and built using **pure HTML and CSS** for pra
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
 
-Open the project folder.
+git clone https://github.com/mehakdanicha/GraphPage-Landing-page.git
+2. Open the project folder on your computer.
+3. Open `index.html` in your web browser to see the page.
 
-Open index.html in your browser.
+## Purpose
 
-Project Structure
-
-bash
-
-Copy code
-
-project-folder/
-
-│
-├── index.html      # Main HTML file
-
-├── style.css       # CSS styling
-
-└── assets/         # Optional: images, icons, etc.
-##Purpose
-This project is purely for learning and practicing HTML and CSS. It is not intended for production use.
+This project is created purely for **learning and practicing HTML and CSS**. It helps improve layout design, styling, and responsive web design skills. It is not intended for production use.

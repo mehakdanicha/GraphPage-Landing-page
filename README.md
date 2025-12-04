@@ -19,7 +19,9 @@ This is a simple web page designed and built using **pure HTML and CSS** for pra
 1. Clone the repository:
 
 git clone https://github.com/mehakdanicha/GraphPage-Landing-page.git
+
 2. Open the project folder on your computer.
+  
 3. Open `index.html` in your web browser to see the page.
 
 ## Purpose
